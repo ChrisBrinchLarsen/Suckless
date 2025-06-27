@@ -1,6 +1,5 @@
 *.o
 st
-*.1
 *.rej
 slstatus
 dwm
